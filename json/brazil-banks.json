@@ -1,1276 +1,1538 @@
-[{
-	"code": "001",
-	"name": "BANCO DO BRASIL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "341",
-	"name": "ITA\u00da",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "104",
-	"name": "CAIXA ECON\u00d4MICA FEDERAL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "033",
-	"name": "SANTANDER",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "070",
-	"name": "BRB - BANCO DE BRAS\u00ccLIA",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "077",
-	"name": "BANCO INTERMEDIUM",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "237",
-	"name": "BRADESCO",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "745",
-	"name": "CITIBANK",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "422",
-	"name": "BANCO SAFRA",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "399",
-	"name": "BANCO HSBC",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "756",
-	"name": "BANCOOB",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "212",
-	"name": "BANCO ORIGINAL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "002",
-	"name": "BANCO CENTRAL DO BRASIL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "003",
-	"name": "BANCO DA AMAZONIA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "004",
-	"name": "BANCO DO NORDESTE DO BRASIL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "007",
-	"name": "BANCO NAC DESENV. ECO. SOCIAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "008",
-	"name": "BANCO MERIDIONAL DO BRASIL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "020",
-	"name": "BANCO DO ESTADO DE ALAGOAS S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "021",
-	"name": "BANCO DO ESTADO DO ESPIRITO SANTO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "022",
-	"name": "BANCO DE CREDITO REAL DE MINAS GERAIS SA",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "024",
-	"name": "BANCO DO ESTADO DE PERNAMBUCO",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "025",
-	"name": "BANCO ALFA S\/A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "026",
-	"name": "BANCO DO ESTADO DO ACRE S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "027",
-	"name": "BANCO DO ESTADO DE SANTA CATARINA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "028",
-	"name": "BANCO DO ESTADO DA BAHIA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "029",
-	"name": "BANCO DO ESTADO DO RIO DE JANEIRO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "030",
-	"name": "BANCO DO ESTADO DA PARAIBA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "031",
-	"name": "BANCO DO ESTADO DE GOIAS S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "032",
-	"name": "BANCO DO ESTADO DO MATO GROSSO S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "034",
-	"name": "BANCO DO ESADO DO AMAZONAS S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "035",
-	"name": "BANCO DO ESTADO DO CEARA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "036",
-	"name": "BANCO DO ESTADO DO MARANHAO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "037",
-	"name": "BANCO DO ESTADO DO PARA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "038",
-	"name": "BANCO DO ESTADO DO PARANA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "039",
-	"name": "BANCO DO ESTADO DO PIAUI S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "041",
-	"name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "047",
-	"name": "BANCO DO ESTADO DE SERGIPE S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "048",
-	"name": "BANCO DO ESTADO DE MINAS GERAIS S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "059",
-	"name": "BANCO DO ESTADO DE RONDONIA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "085",
-	"name": "CECRED",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "102",
-	"name": "XP INVESTIMENTOS",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "106",
-	"name": "BANCO ITABANCO S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "107",
-	"name": "BANCO BBM S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "109",
-	"name": "BANCO CREDIBANCO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "116",
-	"name": "BANCO B.N.L DO BRASIL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "148",
-	"name": "MULTI BANCO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "151",
-	"name": "CAIXA ECONOMICA DO ESTADO DE SAO PAULO",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "153",
-	"name": "CAIXA ECONOMICA DO ESTADO DO R.G.SUL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "165",
-	"name": "BANCO NORCHEM S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "166",
-	"name": "BANCO INTER-ATLANTICO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "168",
-	"name": "BANCO C.C.F. BRASIL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "175",
-	"name": "CONTINENTAL BANCO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "184",
-	"name": "BBA - CREDITANSTALT S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "199",
-	"name": "BANCO FINANCIAL PORTUGUES",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "200",
-	"name": "BANCO FRICRISA AXELRUD S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "201",
-	"name": "BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "204",
-	"name": "BANCO S.R.L S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "205",
-	"name": "BANCO SUL AMERICA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "206",
-	"name": "BANCO MARTINELLI S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "208",
-	"name": "BANCO PACTUAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "210",
-	"name": "DEUTSCH SUDAMERIKANICHE BANK AG",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "211",
-	"name": "BANCO SISTEMA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "213",
-	"name": "BANCO ARBI S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "214",
-	"name": "BANCO DIBENS S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "215",
-	"name": "BANCO AMERICA DO SUL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "216",
-	"name": "BANCO REGIONAL MALCON S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "217",
-	"name": "BANCO AGROINVEST S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "218",
-	"name": "BS2",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "219",
-	"name": "BANCO DE CREDITO DE SAO PAULO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "220",
-	"name": "BANCO CREFISUL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "221",
-	"name": "BANCO GRAPHUS S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "222",
-	"name": "BANCO AGF BRASIL S. A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "223",
-	"name": "BANCO INTERUNION S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "224",
-	"name": "BANCO FIBRA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "225",
-	"name": "BANCO BRASCAN S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "228",
-	"name": "BANCO ICATU S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "229",
-	"name": "BANCO CRUZEIRO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "230",
-	"name": "BANCO BANDEIRANTES S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "231",
-	"name": "BANCO BOAVISTA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "232",
-	"name": "BANCO INTERPART S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "233",
-	"name": "BANCO MAPPIN S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "234",
-	"name": "BANCO LAVRA S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "235",
-	"name": "BANCO LIBERAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "236",
-	"name": "BANCO CAMBIAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "239",
-	"name": "BANCO BANCRED S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "240",
-	"name": "BANCO DE CREDITO REAL DE MINAS GERAIS S.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "241",
-	"name": "BANCO CLASSICO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "242",
-	"name": "BANCO EUROINVEST S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "243",
-	"name": "BANCO STOCK S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "244",
-	"name": "BANCO CIDADE S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "245",
-	"name": "BANCO EMPRESARIAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "246",
-	"name": "BANCO ABC ROMA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "247",
-	"name": "BANCO OMEGA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "249",
-	"name": "BANCO INVESTCRED S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "250",
-	"name": "BANCO SCHAHIN CURY S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "251",
-	"name": "BANCO SAO JORGE S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "252",
-	"name": "BANCO FININVEST S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "254",
-	"name": "BANCO PARANA BANCO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "255",
-	"name": "MILBANCO S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "256",
-	"name": "BANCO GULVINVEST S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "258",
-	"name": "BANCO INDUSCRED S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "260",
-	"name": "NUBANK",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "261",
-	"name": "BANCO VARIG S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "262",
-	"name": "BANCO BOREAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "263",
-	"name": "BANCO CACIQUE",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "264",
-	"name": "BANCO PERFORMANCE S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "265",
-	"name": "BANCO FATOR S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "266",
-	"name": "BANCO CEDULA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "267",
-	"name": "BANCO BBM-COM.C.IMOB.CFI S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "275",
-	"name": "BANCO REAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "277",
-	"name": "BANCO PLANIBANC S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "282",
-	"name": "BANCO BRASILEIRO COMERCIAL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "290",
-	"name": "PagSeguro Internet S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "291",
-	"name": "BANCO DE CREDITO NACIONAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "294",
-	"name": "BCR - BANCO DE CREDITO REAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "295",
-	"name": "BANCO CREDIPLAN S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "300",
-	"name": "BANCO DE LA NACION ARGENTINA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "302",
-	"name": "BANCO DO PROGRESSO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "303",
-	"name": "BANCO HNF S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "304",
-	"name": "BANCO PONTUAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "308",
-	"name": "BANCO COMERCIAL BANCESA S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "318",
-	"name": "BANCO B.M.G. S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "320",
-	"name": "BANCO INDUSTRIAL E COMERCIAL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "323",
-	"name": "MercadoPago.com Representa\u00e7\u00f5es Ltda.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "336",
-	"name": "BANCO C6 S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "346",
-	"name": "BANCO FRANCES E BRASILEIRO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "347",
-	"name": "BANCO SUDAMERIS BRASIL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "351",
-	"name": "BANCO BOZANO SIMONSEN S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "353",
-	"name": "BANCO GERAL DO COMERCIO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "356",
-	"name": "ABN AMRO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "366",
-	"name": "BANCO SOGERAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "369",
-	"name": "PONTUAL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "370",
-	"name": "BEAL - BANCO EUROPEU PARA AMERICA LATINA",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "372",
-	"name": "BANCO ITAMARATI S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "375",
-	"name": "BANCO FENICIA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "376",
-	"name": "CHASE MANHATTAN BANK S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "388",
-	"name": "BANCO MERCANTIL DE DESCONTOS S\/A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "389",
-	"name": "BANCO MERCANTIL DO BRASIL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "392",
-	"name": "BANCO MERCANTIL DE SAO PAULO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "394",
-	"name": "BANCO B.M.C. S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "409",
-	"name": "UNIBANCO - UNIAO DOS BANCOS BRASILEIROS",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "412",
-	"name": "BANCO NACIONAL DA BAHIA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "415",
-	"name": "BANCO NACIONAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "420",
-	"name": "BANCO NACIONAL DO NORTE S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "424",
-	"name": "BANCO NOROESTE S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "434",
-	"name": "BANCO FORTALEZA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "453",
-	"name": "BANCO RURAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "456",
-	"name": "BANCO TOKIO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "464",
-	"name": "BANCO SUMITOMO BRASILEIRO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "466",
-	"name": "BANCO MITSUBISHI BRASILEIRO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "472",
-	"name": "LLOYDS BANK PLC",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "473",
-	"name": "BANCO FINANCIAL PORTUGUES S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "477",
-	"name": "CITIBANK N.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "479",
-	"name": "BANCO DE BOSTON S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "480",
-	"name": "BANCO PORTUGUES DO ATLANTICO-BRASIL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "483",
-	"name": "BANCO AGRIMISA S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "487",
-	"name": "DEUTSCHE BANK S.A - BANCO ALEMAO",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "488",
-	"name": "BANCO J. P. MORGAN S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "489",
-	"name": "BANESTO BANCO URUGAUAY S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "492",
-	"name": "INTERNATIONALE NEDERLANDEN BANK N.V.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "493",
-	"name": "BANCO UNION S.A.C.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "494",
-	"name": "BANCO LA REP. ORIENTAL DEL URUGUAY",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "495",
-	"name": "BANCO LA PROVINCIA DE BUENOS AIRES",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "496",
-	"name": "BANCO EXTERIOR DE ESPANA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "498",
-	"name": "CENTRO HISPANO BANCO",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "499",
-	"name": "BANCO IOCHPE S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "501",
-	"name": "BANCO BRASILEIRO IRAQUIANO S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "502",
-	"name": "BANCO SANTANDER S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "504",
-	"name": "BANCO MULTIPLIC S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "505",
-	"name": "BANCO GARANTIA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "600",
-	"name": "BANCO LUSO BRASILEIRO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "601",
-	"name": "BFC BANCO S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "602",
-	"name": "BANCO PATENTE S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "604",
-	"name": "BANCO INDUSTRIAL DO BRASIL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "607",
-	"name": "BANCO SANTOS NEVES S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "608",
-	"name": "BANCO OPEN S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "610",
-	"name": "BANCO V.R. S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "611",
-	"name": "BANCO PAULISTA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "612",
-	"name": "BANCO GUANABARA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "613",
-	"name": "BANCO PECUNIA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "616",
-	"name": "BANCO INTERPACIFICO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "617",
-	"name": "BANCO INVESTOR S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "618",
-	"name": "BANCO TENDENCIA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "621",
-	"name": "BANCO APLICAP S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "622",
-	"name": "BANCO DRACMA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "623",
-	"name": "BANCO PANAMERICANO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "624",
-	"name": "BANCO GENERAL MOTORS S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "625",
-	"name": "BANCO ARAUCARIA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "626",
-	"name": "BANCO FICSA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "627",
-	"name": "BANCO DESTAK S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "628",
-	"name": "BANCO CRITERIUM S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "629",
-	"name": "BANCORP BANCO COML. E. DE INVESTMENTO",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "630",
-	"name": "BANCO INTERCAP S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "633",
-	"name": "BANCO REDIMENTO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "634",
-	"name": "BANCO TRIANGULO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "635",
-	"name": "BANCO DO ESTADO DO AMAPA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "637",
-	"name": "BANCO SOFISA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "638",
-	"name": "BANCO PROSPER S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "639",
-	"name": "BIG S.A. - BANCO IRMAOS GUIMARAES",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "640",
-	"name": "BANCO DE CREDITO METROPOLITANO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "641",
-	"name": "BANCO EXCEL ECONOMICO S\/A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "643",
-	"name": "BANCO SEGMENTO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "645",
-	"name": "BANCO DO ESTADO DE RORAIMA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "647",
-	"name": "BANCO MARKA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "648",
-	"name": "BANCO ATLANTIS S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "649",
-	"name": "BANCO DIMENSAO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "650",
-	"name": "BANCO PEBB S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "652",
-	"name": "BANCO FRANCES E BRASILEIRO SA",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "653",
-	"name": "BANCO INDUSVAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "654",
-	"name": "BANCO A. J. RENNER S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "655",
-	"name": "BANCO VOTORANTIM S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "656",
-	"name": "BANCO MATRIX S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "657",
-	"name": "BANCO TECNICORP S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "658",
-	"name": "BANCO PORTO REAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "702",
-	"name": "BANCO SANTOS S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "705",
-	"name": "BANCO INVESTCORP S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "707",
-	"name": "BANCO DAYCOVAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "711",
-	"name": "BANCO VETOR S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "713",
-	"name": "BANCO CINDAM S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "715",
-	"name": "BANCO VEGA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "718",
-	"name": "BANCO OPERADOR S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "719",
-	"name": "BANCO PRIMUS S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "720",
-	"name": "BANCO MAXINVEST S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "721",
-	"name": "BANCO CREDIBEL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "722",
-	"name": "BANCO INTERIOR DE SAO PAULO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "724",
-	"name": "BANCO PORTO SEGURO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "725",
-	"name": "BANCO FINABANCO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "726",
-	"name": "BANCO UNIVERSAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "728",
-	"name": "BANCO FITAL S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "729",
-	"name": "BANCO FONTE S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "730",
-	"name": "BANCO COMERCIAL PARAGUAYO S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "731",
-	"name": "BANCO GNPP S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "732",
-	"name": "BANCO PREMIER S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "733",
-	"name": "BANCO NACOES S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "734",
-	"name": "BANCO GERDAU S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "735",
-	"name": "BANCO NEON",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "736",
-	"name": "BANCO UNITED S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "737",
-	"name": "THECA",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "738",
-	"name": "MARADA",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "739",
-	"name": "BGN",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "740",
-	"name": "BCN BARCLAYS",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "741",
-	"name": "BRP",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "742",
-	"name": "EQUATORIAL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "743",
-	"name": "BANCO EMBLEMA S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "744",
-	"name": "THE FIRST NATIONAL BANK OF BOSTON",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "746",
-	"name": "MODAL S\\A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "747",
-	"name": "RAIBOBANK DO BRASIL",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "748",
-	"name": "SICREDI",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "749",
-	"name": "BRMSANTIL SA",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "750",
-	"name": "BANCO REPUBLIC NATIONAL OF NEW YORK (BRA",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "751",
-	"name": "DRESDNER BANK LATEINAMERIKA-BRASIL S\/A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "752",
-	"name": "BANCO BANQUE NATIONALE DE PARIS BRASIL S",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "753",
-	"name": "BANCO COMERCIAL URUGUAI S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "755",
-	"name": "BANCO MERRILL LYNCH S.A",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}, {
-	"code": "757",
-	"name": "BANCO KEB DO BRASIL S.A.",
-	"status": 1,
-	"created_at": "2019-10-02 09:59:59"
-}]
+[
+  {
+    "code": "001",
+    "name": "BANCO DO BRASIL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "341",
+    "name": "ITAÚ",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "104",
+    "name": "CAIXA ECONÔMICA FEDERAL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "033",
+    "name": "SANTANDER",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "070",
+    "name": "BRB - BANCO DE BRASÌLIA",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "077",
+    "name": "BANCO INTERMEDIUM",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "237",
+    "name": "BRADESCO",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "745",
+    "name": "CITIBANK",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "422",
+    "name": "BANCO SAFRA",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "399",
+    "name": "BANCO HSBC",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "756",
+    "name": "BANCOOB",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "212",
+    "name": "BANCO ORIGINAL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "002",
+    "name": "BANCO CENTRAL DO BRASIL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "003",
+    "name": "BANCO DA AMAZONIA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "004",
+    "name": "BANCO DO NORDESTE DO BRASIL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "007",
+    "name": "BANCO NAC DESENV. ECO. SOCIAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "008",
+    "name": "BANCO MERIDIONAL DO BRASIL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "020",
+    "name": "BANCO DO ESTADO DE ALAGOAS S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "021",
+    "name": "BANCO DO ESTADO DO ESPIRITO SANTO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "022",
+    "name": "BANCO DE CREDITO REAL DE MINAS GERAIS SA",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "024",
+    "name": "BANCO DO ESTADO DE PERNAMBUCO",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "025",
+    "name": "BANCO ALFA S/A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "026",
+    "name": "BANCO DO ESTADO DO ACRE S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "027",
+    "name": "BANCO DO ESTADO DE SANTA CATARINA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "028",
+    "name": "BANCO DO ESTADO DA BAHIA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "029",
+    "name": "BANCO DO ESTADO DO RIO DE JANEIRO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "030",
+    "name": "BANCO DO ESTADO DA PARAIBA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "031",
+    "name": "BANCO DO ESTADO DE GOIAS S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "032",
+    "name": "BANCO DO ESTADO DO MATO GROSSO S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "034",
+    "name": "BANCO DO ESADO DO AMAZONAS S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "035",
+    "name": "BANCO DO ESTADO DO CEARA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "036",
+    "name": "BANCO DO ESTADO DO MARANHAO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "037",
+    "name": "BANCO DO ESTADO DO PARA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "038",
+    "name": "BANCO DO ESTADO DO PARANA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "039",
+    "name": "BANCO DO ESTADO DO PIAUI S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "041",
+    "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "047",
+    "name": "BANCO DO ESTADO DE SERGIPE S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "048",
+    "name": "BANCO DO ESTADO DE MINAS GERAIS S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "059",
+    "name": "BANCO DO ESTADO DE RONDONIA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "085",
+    "name": "CECRED",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "102",
+    "name": "XP INVESTIMENTOS",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "106",
+    "name": "BANCO ITABANCO S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "107",
+    "name": "BANCO BBM S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "109",
+    "name": "BANCO CREDIBANCO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "116",
+    "name": "BANCO B.N.L DO BRASIL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "148",
+    "name": "MULTI BANCO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "151",
+    "name": "CAIXA ECONOMICA DO ESTADO DE SAO PAULO",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "153",
+    "name": "CAIXA ECONOMICA DO ESTADO DO R.G.SUL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "165",
+    "name": "BANCO NORCHEM S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "166",
+    "name": "BANCO INTER-ATLANTICO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "168",
+    "name": "BANCO C.C.F. BRASIL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "175",
+    "name": "CONTINENTAL BANCO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "184",
+    "name": "BBA - CREDITANSTALT S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "199",
+    "name": "BANCO FINANCIAL PORTUGUES",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "200",
+    "name": "BANCO FRICRISA AXELRUD S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "201",
+    "name": "BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "204",
+    "name": "BANCO S.R.L S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "205",
+    "name": "BANCO SUL AMERICA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "206",
+    "name": "BANCO MARTINELLI S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "208",
+    "name": "BANCO PACTUAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "210",
+    "name": "DEUTSCH SUDAMERIKANICHE BANK AG",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "211",
+    "name": "BANCO SISTEMA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "213",
+    "name": "BANCO ARBI S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "214",
+    "name": "BANCO DIBENS S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "215",
+    "name": "BANCO AMERICA DO SUL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "216",
+    "name": "BANCO REGIONAL MALCON S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "217",
+    "name": "BANCO AGROINVEST S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "218",
+    "name": "BS2",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "219",
+    "name": "BANCO DE CREDITO DE SAO PAULO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "220",
+    "name": "BANCO CREFISUL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "221",
+    "name": "BANCO GRAPHUS S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "222",
+    "name": "BANCO AGF BRASIL S. A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "223",
+    "name": "BANCO INTERUNION S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "224",
+    "name": "BANCO FIBRA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "225",
+    "name": "BANCO BRASCAN S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "228",
+    "name": "BANCO ICATU S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "229",
+    "name": "BANCO CRUZEIRO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "230",
+    "name": "BANCO BANDEIRANTES S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "231",
+    "name": "BANCO BOAVISTA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "232",
+    "name": "BANCO INTERPART S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "233",
+    "name": "BANCO MAPPIN S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "234",
+    "name": "BANCO LAVRA S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "235",
+    "name": "BANCO LIBERAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "236",
+    "name": "BANCO CAMBIAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "239",
+    "name": "BANCO BANCRED S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "240",
+    "name": "BANCO DE CREDITO REAL DE MINAS GERAIS S.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "241",
+    "name": "BANCO CLASSICO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "242",
+    "name": "BANCO EUROINVEST S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "243",
+    "name": "BANCO STOCK S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "244",
+    "name": "BANCO CIDADE S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "245",
+    "name": "BANCO EMPRESARIAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "246",
+    "name": "BANCO ABC ROMA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "247",
+    "name": "BANCO OMEGA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "249",
+    "name": "BANCO INVESTCRED S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "250",
+    "name": "BANCO SCHAHIN CURY S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "251",
+    "name": "BANCO SAO JORGE S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "252",
+    "name": "BANCO FININVEST S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "254",
+    "name": "BANCO PARANA BANCO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "255",
+    "name": "MILBANCO S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "256",
+    "name": "BANCO GULVINVEST S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "258",
+    "name": "BANCO INDUSCRED S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "260",
+    "name": "NUBANK",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "261",
+    "name": "BANCO VARIG S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "262",
+    "name": "BANCO BOREAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "263",
+    "name": "BANCO CACIQUE",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "264",
+    "name": "BANCO PERFORMANCE S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "265",
+    "name": "BANCO FATOR S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "266",
+    "name": "BANCO CEDULA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "267",
+    "name": "BANCO BBM-COM.C.IMOB.CFI S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "275",
+    "name": "BANCO REAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "277",
+    "name": "BANCO PLANIBANC S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "282",
+    "name": "BANCO BRASILEIRO COMERCIAL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "290",
+    "name": "PagSeguro Internet S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "291",
+    "name": "BANCO DE CREDITO NACIONAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "294",
+    "name": "BCR - BANCO DE CREDITO REAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "295",
+    "name": "BANCO CREDIPLAN S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "300",
+    "name": "BANCO DE LA NACION ARGENTINA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "302",
+    "name": "BANCO DO PROGRESSO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "303",
+    "name": "BANCO HNF S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "304",
+    "name": "BANCO PONTUAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "308",
+    "name": "BANCO COMERCIAL BANCESA S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "318",
+    "name": "BANCO B.M.G. S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "320",
+    "name": "BANCO INDUSTRIAL E COMERCIAL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "323",
+    "name": "MercadoPago.com Representações Ltda.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "336",
+    "name": "BANCO C6 S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "346",
+    "name": "BANCO FRANCES E BRASILEIRO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "347",
+    "name": "BANCO SUDAMERIS BRASIL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "351",
+    "name": "BANCO BOZANO SIMONSEN S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "353",
+    "name": "BANCO GERAL DO COMERCIO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "356",
+    "name": "ABN AMRO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "366",
+    "name": "BANCO SOGERAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "369",
+    "name": "PONTUAL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "370",
+    "name": "BEAL - BANCO EUROPEU PARA AMERICA LATINA",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "372",
+    "name": "BANCO ITAMARATI S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "375",
+    "name": "BANCO FENICIA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "376",
+    "name": "CHASE MANHATTAN BANK S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "380",
+    "name": "PICPAY SERVIÇOS S.A.",
+    "status": 1,
+    "created_at": "2021-11-22 15:26:00"
+  },
+  {
+    "code": "388",
+    "name": "BANCO MERCANTIL DE DESCONTOS S/A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "389",
+    "name": "BANCO MERCANTIL DO BRASIL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "392",
+    "name": "BANCO MERCANTIL DE SAO PAULO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "394",
+    "name": "BANCO B.M.C. S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "409",
+    "name": "UNIBANCO - UNIAO DOS BANCOS BRASILEIROS",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "412",
+    "name": "BANCO NACIONAL DA BAHIA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "415",
+    "name": "BANCO NACIONAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "420",
+    "name": "BANCO NACIONAL DO NORTE S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "424",
+    "name": "BANCO NOROESTE S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "434",
+    "name": "BANCO FORTALEZA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "453",
+    "name": "BANCO RURAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "456",
+    "name": "BANCO TOKIO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "464",
+    "name": "BANCO SUMITOMO BRASILEIRO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "466",
+    "name": "BANCO MITSUBISHI BRASILEIRO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "472",
+    "name": "LLOYDS BANK PLC",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "473",
+    "name": "BANCO FINANCIAL PORTUGUES S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "477",
+    "name": "CITIBANK N.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "479",
+    "name": "BANCO DE BOSTON S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "480",
+    "name": "BANCO PORTUGUES DO ATLANTICO-BRASIL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "483",
+    "name": "BANCO AGRIMISA S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "487",
+    "name": "DEUTSCHE BANK S.A - BANCO ALEMAO",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "488",
+    "name": "BANCO J. P. MORGAN S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "489",
+    "name": "BANESTO BANCO URUGAUAY S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "492",
+    "name": "INTERNATIONALE NEDERLANDEN BANK N.V.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "493",
+    "name": "BANCO UNION S.A.C.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "494",
+    "name": "BANCO LA REP. ORIENTAL DEL URUGUAY",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "495",
+    "name": "BANCO LA PROVINCIA DE BUENOS AIRES",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "496",
+    "name": "BANCO EXTERIOR DE ESPANA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "498",
+    "name": "CENTRO HISPANO BANCO",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "499",
+    "name": "BANCO IOCHPE S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "501",
+    "name": "BANCO BRASILEIRO IRAQUIANO S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "502",
+    "name": "BANCO SANTANDER S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "504",
+    "name": "BANCO MULTIPLIC S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "505",
+    "name": "BANCO GARANTIA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "600",
+    "name": "BANCO LUSO BRASILEIRO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "601",
+    "name": "BFC BANCO S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "602",
+    "name": "BANCO PATENTE S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "604",
+    "name": "BANCO INDUSTRIAL DO BRASIL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "607",
+    "name": "BANCO SANTOS NEVES S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "608",
+    "name": "BANCO OPEN S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "610",
+    "name": "BANCO V.R. S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "611",
+    "name": "BANCO PAULISTA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "612",
+    "name": "BANCO GUANABARA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "613",
+    "name": "BANCO PECUNIA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "616",
+    "name": "BANCO INTERPACIFICO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "617",
+    "name": "BANCO INVESTOR S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "618",
+    "name": "BANCO TENDENCIA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "621",
+    "name": "BANCO APLICAP S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "622",
+    "name": "BANCO DRACMA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "623",
+    "name": "BANCO PANAMERICANO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "624",
+    "name": "BANCO GENERAL MOTORS S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "625",
+    "name": "BANCO ARAUCARIA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "626",
+    "name": "BANCO FICSA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "627",
+    "name": "BANCO DESTAK S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "628",
+    "name": "BANCO CRITERIUM S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "629",
+    "name": "BANCORP BANCO COML. E. DE INVESTMENTO",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "630",
+    "name": "BANCO INTERCAP S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "633",
+    "name": "BANCO REDIMENTO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "634",
+    "name": "BANCO TRIANGULO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "635",
+    "name": "BANCO DO ESTADO DO AMAPA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "637",
+    "name": "BANCO SOFISA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "638",
+    "name": "BANCO PROSPER S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "639",
+    "name": "BIG S.A. - BANCO IRMAOS GUIMARAES",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "640",
+    "name": "BANCO DE CREDITO METROPOLITANO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "641",
+    "name": "BANCO EXCEL ECONOMICO S/A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "643",
+    "name": "BANCO SEGMENTO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "645",
+    "name": "BANCO DO ESTADO DE RORAIMA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "647",
+    "name": "BANCO MARKA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "648",
+    "name": "BANCO ATLANTIS S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "649",
+    "name": "BANCO DIMENSAO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "650",
+    "name": "BANCO PEBB S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "652",
+    "name": "BANCO FRANCES E BRASILEIRO SA",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "653",
+    "name": "BANCO INDUSVAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "654",
+    "name": "BANCO A. J. RENNER S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "655",
+    "name": "BANCO VOTORANTIM S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "656",
+    "name": "BANCO MATRIX S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "657",
+    "name": "BANCO TECNICORP S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "658",
+    "name": "BANCO PORTO REAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "702",
+    "name": "BANCO SANTOS S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "705",
+    "name": "BANCO INVESTCORP S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "707",
+    "name": "BANCO DAYCOVAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "711",
+    "name": "BANCO VETOR S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "713",
+    "name": "BANCO CINDAM S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "715",
+    "name": "BANCO VEGA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "718",
+    "name": "BANCO OPERADOR S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "719",
+    "name": "BANCO PRIMUS S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "720",
+    "name": "BANCO MAXINVEST S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "721",
+    "name": "BANCO CREDIBEL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "722",
+    "name": "BANCO INTERIOR DE SAO PAULO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "724",
+    "name": "BANCO PORTO SEGURO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "725",
+    "name": "BANCO FINABANCO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "726",
+    "name": "BANCO UNIVERSAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "728",
+    "name": "BANCO FITAL S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "729",
+    "name": "BANCO FONTE S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "730",
+    "name": "BANCO COMERCIAL PARAGUAYO S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "731",
+    "name": "BANCO GNPP S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "732",
+    "name": "BANCO PREMIER S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "733",
+    "name": "BANCO NACOES S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "734",
+    "name": "BANCO GERDAU S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "735",
+    "name": "BANCO NEON",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "736",
+    "name": "BANCO UNITED S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "737",
+    "name": "THECA",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "738",
+    "name": "MARADA",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "739",
+    "name": "BGN",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "740",
+    "name": "BCN BARCLAYS",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "741",
+    "name": "BRP",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "742",
+    "name": "EQUATORIAL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "743",
+    "name": "BANCO EMBLEMA S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "744",
+    "name": "THE FIRST NATIONAL BANK OF BOSTON",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "746",
+    "name": "MODAL S\\A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "747",
+    "name": "RAIBOBANK DO BRASIL",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "748",
+    "name": "SICREDI",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "749",
+    "name": "BRMSANTIL SA",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "750",
+    "name": "BANCO REPUBLIC NATIONAL OF NEW YORK (BRA",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "751",
+    "name": "DRESDNER BANK LATEINAMERIKA-BRASIL S/A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "752",
+    "name": "BANCO BANQUE NATIONALE DE PARIS BRASIL S",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "753",
+    "name": "BANCO COMERCIAL URUGUAI S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "755",
+    "name": "BANCO MERRILL LYNCH S.A",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  },
+  {
+    "code": "757",
+    "name": "BANCO KEB DO BRASIL S.A.",
+    "status": 1,
+    "created_at": "2019-10-02 09:59:59"
+  }
+]
